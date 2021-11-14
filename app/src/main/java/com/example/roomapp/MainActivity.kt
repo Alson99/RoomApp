@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(findNavController(R.id.fragment))
 
         println("This contained all the commits i will make")
-        Today is a good day for us
+        hgfaiuhfeiwuhgukaefuhi
     }
 
     override fun onSupportNavigateUp(): Boolean {
