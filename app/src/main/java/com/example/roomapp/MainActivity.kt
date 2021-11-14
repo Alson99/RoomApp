@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         setupActionBarWithNavController(findNavController(R.id.fragment))
+
+        println("This contained all the commits i will make")
     }
 
     override fun onSupportNavigateUp(): Boolean {
